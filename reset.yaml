@@ -1,0 +1,5 @@
+---
+original/a.pp: centos65a
+original/b.pp: centos65b 
+original/enable_a.pp: master
+original/enable_b.pp: master

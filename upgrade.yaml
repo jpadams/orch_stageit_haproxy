@@ -1,0 +1,8 @@
+---
+upgrade/disable_a.pp: master
+upgrade/a.pp: centos65a
+upgrade/enable_a.pp: master
+###
+upgrade/disable_b.pp: master
+upgrade/b.pp: centos65b 
+upgrade/enable_b.pp: master
